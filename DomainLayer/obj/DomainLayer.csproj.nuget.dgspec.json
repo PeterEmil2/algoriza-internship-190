@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj": {}
+    "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj": {}
   },
   "projects": {
-    "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj": {
+    "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "G:\\Veseeta\\Veseeta\\DomainLayer\\obj\\",
+        "outputPath": "H:\\Vezeeta\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

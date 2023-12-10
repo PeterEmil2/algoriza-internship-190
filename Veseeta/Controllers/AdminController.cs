@@ -37,11 +37,13 @@ namespace Veseeta.Controllers
 
 
         }
+
+
         [HttpGet(nameof(getAllPatients))]
-        public IActionResult getAllPatients(int? Page, int pageSize, string Search)
+        public async Task<IActionResult> getAllPatients(int? Page, int pageSize, string Search)
         {
-            var res = _repo.GetAllPatients(Page, pageSize, Search);
-            if (res== null)
+            var res = await _repo.GetAllPatients(Page, pageSize, Search);
+            if (res == null)
             {
                 return BadRequest("There are no records");
             }
@@ -49,11 +51,7 @@ namespace Veseeta.Controllers
             {
                 return Ok(res);
             }
-
-
         }
-
-
 
         [HttpGet(nameof(numOfPatients))]
         public IActionResult numOfPatients()
@@ -259,5 +257,7 @@ namespace Veseeta.Controllers
                 return Ok(res);
             }
         }
+
+
     }
 }

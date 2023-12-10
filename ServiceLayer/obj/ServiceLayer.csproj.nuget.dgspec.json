@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Veseeta\\Veseeta\\ServiceLayer\\ServiceLayer.csproj": {}
+    "H:\\Vezeeta\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "G:\\Veseeta\\Veseeta\\ServiceLayer\\ServiceLayer.csproj": {
+    "H:\\Vezeeta\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Veseeta\\Veseeta\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "H:\\Vezeeta\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "G:\\Veseeta\\Veseeta\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "H:\\Vezeeta\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "G:\\Veseeta\\Veseeta\\ServiceLayer\\obj\\",
+        "outputPath": "H:\\Vezeeta\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

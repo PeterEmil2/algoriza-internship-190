@@ -4620,11 +4620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Veseeta\\Veseeta\\Veseeta\\Veseeta.csproj",
+      "projectUniqueName": "H:\\Vezeeta\\Veseeta\\Veseeta.csproj",
       "projectName": "Veseeta",
-      "projectPath": "G:\\Veseeta\\Veseeta\\Veseeta\\Veseeta.csproj",
+      "projectPath": "H:\\Vezeeta\\Veseeta\\Veseeta.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "G:\\Veseeta\\Veseeta\\Veseeta\\obj\\",
+      "outputPath": "H:\\Vezeeta\\Veseeta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4641,8 +4641,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\Veseeta\\Veseeta\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "G:\\Veseeta\\Veseeta\\RepositoryLayer\\RepositoryLayer.csproj"
+            "H:\\Vezeeta\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "H:\\Vezeeta\\RepositoryLayer\\RepositoryLayer.csproj"
             }
           }
         }

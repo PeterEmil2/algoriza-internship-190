@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Veseeta\\Veseeta\\RepositoryLayer\\RepositoryLayer.csproj": {}
+    "H:\\Vezeeta\\RepositoryLayer\\RepositoryLayer.csproj": {}
   },
   "projects": {
-    "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj": {
+    "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "G:\\Veseeta\\Veseeta\\DomainLayer\\obj\\",
+        "outputPath": "H:\\Vezeeta\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,14 +83,14 @@
         }
       }
     },
-    "G:\\Veseeta\\Veseeta\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "H:\\Vezeeta\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Veseeta\\Veseeta\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "H:\\Vezeeta\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "G:\\Veseeta\\Veseeta\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "H:\\Vezeeta\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "G:\\Veseeta\\Veseeta\\RepositoryLayer\\obj\\",
+        "outputPath": "H:\\Vezeeta\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +107,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "G:\\Veseeta\\Veseeta\\DomainLayer\\DomainLayer.csproj"
+              "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "H:\\Vezeeta\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }

@@ -207,14 +207,13 @@ namespace RepositoryLayer.RepositoryFolder
         public async Task<IEnumerable<applicationUser>> GetAllPatients(int? page, int pageSize, string search)
         {
             var users = await _userManager.Users
-                .Where(x => x.Email == search || search == null)
+                .Where(x => x.UserName == search || search == null)
                 .ToListAsync();
+            var pagedList = users.ToList().ToPagedList(page ?? 1, pageSize);
 
-            var pagedList = users.ToPagedList(page ?? 1, pageSize);
 
-            return pagedList.ToList();
+            return pagedList;
         }
-
         async Task<applicationUser>  IAdminRepository.GetPatientById(string id)
         {
             var user = await _userManager.FindByIdAsync(id);

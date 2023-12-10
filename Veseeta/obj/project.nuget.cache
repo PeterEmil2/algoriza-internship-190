@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RsvdYjwF2wPvnHwsNPBER85zhTJzh2W522HXQFo1W0+rQ8W/LqyIWUyffGEopw9n78HWBWuNr0eybH38WXwOsg==",
+  "dgSpecHash": "2Su2FC/95adOCy3E2hX1nF9Q8Hg6LC4Zl7yrbAyxL8BT4d+LCcsZ4G2Yv9ZxL3a8yTKnfUjwylhxDeysGK0h5g==",
   "success": true,
-  "projectFilePath": "G:\\Veseeta\\Veseeta\\Veseeta\\Veseeta.csproj",
+  "projectFilePath": "H:\\Vezeeta\\Veseeta\\Veseeta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peter\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Peter\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
