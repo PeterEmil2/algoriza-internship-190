@@ -115,7 +115,7 @@ namespace RepositoryLayer.RepositoryFolder
                 var isTimeTrue = _context.Times.FirstOrDefault(x => x.appointementId == appointementId &&x.time==fromTimeValue);
                 if (isTimeTrue != null)
                 {
-                    var isFound = _context.Bookings.FirstOrDefault(x => x.DoctorId == doctorId && x.bookingDay == fromDay && x.bookingTime == fromTimeValue);
+                    var isFound = _context.Bookings.FirstOrDefault(x => x.DoctorId == doctorId && x.bookingDay == fromDay && x.bookingTime == fromTimeValue && x.bookingStatus !="Cancelled");
                     if (isFound == null)
                     {
                         try

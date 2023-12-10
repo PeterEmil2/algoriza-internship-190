@@ -19,7 +19,7 @@ namespace Repository.context
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source =DESKTOP-J7ATT94\\SQLEXPRESS; Initial Catalog = Vezeeta; Integrated Security = true; TrustServerCertificate = true");
+            optionsBuilder.UseSqlServer("Data Source =DESKTOP-665C9QB\\SQLEXPRESS; Initial Catalog = Vezeeta; Integrated Security = true; TrustServerCertificate = true");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
